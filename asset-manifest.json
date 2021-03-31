@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/aprilful/static/css/main.98124bdc.chunk.css",
+    "main.js": "/aprilful/static/js/main.842cf6fa.chunk.js",
+    "main.js.map": "/aprilful/static/js/main.842cf6fa.chunk.js.map",
+    "runtime-main.js": "/aprilful/static/js/runtime-main.150caa1e.js",
+    "runtime-main.js.map": "/aprilful/static/js/runtime-main.150caa1e.js.map",
+    "static/js/2.72a9e79f.chunk.js": "/aprilful/static/js/2.72a9e79f.chunk.js",
+    "static/js/2.72a9e79f.chunk.js.map": "/aprilful/static/js/2.72a9e79f.chunk.js.map",
+    "index.html": "/aprilful/index.html",
+    "static/css/main.98124bdc.chunk.css.map": "/aprilful/static/css/main.98124bdc.chunk.css.map",
+    "static/js/2.72a9e79f.chunk.js.LICENSE.txt": "/aprilful/static/js/2.72a9e79f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.150caa1e.js",
+    "static/js/2.72a9e79f.chunk.js",
+    "static/css/main.98124bdc.chunk.css",
+    "static/js/main.842cf6fa.chunk.js"
+  ]
+}
