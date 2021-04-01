@@ -34,7 +34,7 @@ const Form = () => {
 
 
                     <WhatsappShareButton
-                        url={`https://github.com/deep-0301/aprilful.git/${name}`}
+                        url={`https://deep-0301.github.io/aprilful/${name}`}
                     >
                         <Button
                             variant='contained'
